@@ -1,4 +1,4 @@
-# Small Shop App - Swing
+# Small Shop App - Java Swing
 This was my first ever Java program, my teacher wanted us to build a quick app with no prior Java experience. <br/>
 It was pretty hard. <br/>
 
