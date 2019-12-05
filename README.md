@@ -1,6 +1,5 @@
 # Small Shop App - Java Swing
-This was my first ever Java program, my teacher wanted us to build a quick app with no prior Java experience. <br/>
-It was pretty hard. <br/>
+This was my first ever Java program for my high school subject, my teacher wanted us to build a quick app with no prior Java experience. <br/>
 
 <ul>
   <li><b>Date:</b> April 2018</b>
